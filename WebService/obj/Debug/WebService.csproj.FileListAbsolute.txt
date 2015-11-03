@@ -1,0 +1,9 @@
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\bin\Debug\WebService.dll
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\bin\Debug\WebService.pdb
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\JulianAndres\Documents\Projects\WebService\WebService\obj\Debug\WebService.pdb
